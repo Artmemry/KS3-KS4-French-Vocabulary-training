@@ -1,0 +1,52 @@
+/* Y9U9.2 — 9.2 L3 · U9.2-9.3 L3 & L4 - Mobile phones / Social media
+   Year 9 · Unité 9 — La technologie — technology
+   One pair per line: ["French", "English"]. Separate interchangeable
+   forms with a semicolon — "le garçon;un garçon" / "the boy;a boy;boy".
+   Add, remove or reorder freely: a word keeps its place in a student's
+   progress as long as its French stays the same. */
+BBA.list("Y9U9.2", [
+  ["jouer", "to play;play"],
+  ["earn", "to win"],
+  ["jeu", "game"],
+  ["social", "social"],
+  ["membre", "member"],
+  ["yeux", "eyes"],
+  ["charger", "to load;charge"],
+  ["s'entraîner", "to train;train"],
+  ["communauté", "community"],
+  ["réseau", "network"],
+  ["message", "message"],
+  ["l'ordinateur", "computer"],
+  ["le clavier", "keyboard"],
+  ["l'appli;l'application", "app;application"],
+  ["le moyen", "means;way"],
+  ["le téléphone", "telephone;phone"],
+  ["la vidéo", "video"],
+  ["comparer", "to compare"],
+  ["le portable", "mobile phone;mobile"],
+  ["le smartphone", "smartphone"],
+  ["l'écran", "screen"],
+  ["sociale", "social"],
+  ["le commentaire", "comment"],
+  ["la faveur", "favour"],
+  ["la grâce", "grace;thanks"],
+  ["grâce à", "thanks to"],
+  ["les médias", "media"],
+  ["le message", "message"],
+  ["le réseau", "network"],
+  ["suivre", "to follow;follow"],
+  ["les réseaux sociaux", "social networks"],
+  ["poster", "to post;post"],
+  ["publier", "to publish;post"],
+  ["représentation", "representation"],
+  ["distance", "distance"],
+  ["médias", "media"],
+  ["commentaire", "comment;remark"],
+  ["compétence", "competence;skill;ability"],
+  ["don", "gift;talent;donation"],
+  ["passion", "passion"],
+  ["vidéo", "video"],
+  ["le réseau social", "social network;social media"],
+  ["filmer", "to film;film"],
+  ["l'application", "app;application"]
+]);

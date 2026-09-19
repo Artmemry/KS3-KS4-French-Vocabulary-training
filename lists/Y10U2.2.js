@@ -1,0 +1,50 @@
+/* Y10U2.2 — 2.1 L2 · Describe yourself – hair, eyes and height. / Tu es comment ?
+   Year 10 · Unité 2 — La famille et les amis — family, friends and relationships
+   One pair per line: ["French", "English"]. Separate interchangeable
+   forms with a semicolon — "le garçon;un garçon" / "the boy;a boy;boy".
+   Add, remove or reorder freely: a word keeps its place in a student's
+   progress as long as its French stays the same. */
+BBA.list("Y10U2.2", [
+  ["Après avoir", "After having"],
+  ["quand j'étais petit;quand j'étais petite;quand j'étais jeune", "when I was young;when i was little;when i was small"],
+  ["quand j'étais petit (e)", "when I was little"],
+  ["quand j'étais petit j'aimais (e)", "When I was young I used to like;When I was younger I used to like;When I was small I used to like"],
+  ["avoir des connaissances", "to have knowledge"],
+  ["la couleur;couleur", "colour"],
+  ["blanc", "white"],
+  ["noir", "black"],
+  ["bleu", "blue"],
+  ["vert", "green"],
+  ["longtemps", "a long time;long time"],
+  ["petit-déjeuner", "breakfast"],
+  ["avoir mal", "to ache;to hurt"],
+  ["nous avons", "we have"],
+  ["vous avez", "you guys have"],
+  ["blond", "blond"],
+  ["châtain;brun", "brown"],
+  ["clair", "light;bright"],
+  ["court", "short"],
+  ["grand;grande", "big;tall;large"],
+  ["gris", "grey"],
+  ["long;longue", "long"],
+  ["marron", "brown"],
+  ["moyen", "medium;average size"],
+  ["petit", "small;little"],
+  ["roux", "red;ginger"],
+  ["les cheveux;cheveux", "hair"],
+  ["les lunettes;lunettes", "glasses"],
+  ["les yeux", "eyes"],
+  ["la mère;mère", "mother;mum"],
+  ["le père;un père;père", "father;dad"],
+  ["ressembler à", "to look like;to resemble"],
+  ["le beau-père", "step-father;step-dad"],
+  ["la belle-mère", "step-mother;step-mum"],
+  ["la grand-mère;grand-mère", "grandmother;grandma"],
+  ["le grand-père", "grandfather;grandad"],
+  ["les grands-parents;grands-parents", "grandparents;grand-parents;grand parents"],
+  ["s'appeler", "to be called"],
+  ["avoir", "to have;have"],
+  ["avoir ... ans;avoir...ans", "to be ... years old;to be...years old"],
+  ["playground;court", "cour"],
+  ["she runs;he runs;it runs", "court"]
+]);
