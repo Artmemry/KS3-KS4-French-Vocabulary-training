@@ -1,0 +1,53 @@
+/* Y10U2.8 — 2.1 L8 · Photo Description – Family
+   Year 10 · Unité 2 — La famille et les amis — family, friends and relationships
+   One pair per line: ["French", "English"]. Separate interchangeable
+   forms with a semicolon — "le garçon;un garçon" / "the boy;a boy;boy".
+   Add, remove or reorder freely: a word keeps its place in a student's
+   progress as long as its French stays the same. */
+BBA.list("Y10U2.8", [
+  ["ma famille pense que", "my family thinks that"],
+  ["Quand je serai adulte", "When I will be an adult"],
+  ["blanc", "white"],
+  ["noir", "black"],
+  ["bleu", "blue"],
+  ["vert", "green"],
+  ["longtemps", "a long time;long time"],
+  ["ne...personne", "not anyone;no-one"],
+  ["personne", "nobody"],
+  ["court", "short"],
+  ["grand;grande", "big;tall;large"],
+  ["gris", "grey"],
+  ["long;longue", "long"],
+  ["marron", "brown"],
+  ["la mère;mère", "mother;mum"],
+  ["le père;un père;père", "father;dad"],
+  ["le beau-père", "step-father;step-dad"],
+  ["la belle-mère", "step-mother;step-mum"],
+  ["le demi-frère", "step-brother;half-brother"],
+  ["la demi-sœur", "step-sister;half-sister"],
+  ["l'enfant", "child;kid"],
+  ["la famille;famille", "family"],
+  ["la fille", "girl;daughter"],
+  ["le frère", "brother"],
+  ["la grand-mère;grand-mère", "grandmother;grandma"],
+  ["le grand-père", "grandfather;grandad"],
+  ["les grands-parents;grands-parents", "grandparents;grand-parents;grand parents"],
+  ["le parent", "parent"],
+  ["la personne", "people;person;nobody"],
+  ["la sœur", "sister"],
+  ["familial", "related to family"],
+  ["leur", "their"],
+  ["leurs", "their (pl)"],
+  ["à l'arrière plan", "in the background"],
+  ["au premier plan", "in the foreground"],
+  ["l'adulte", "adult"],
+  ["la femme", "woman;wife"],
+  ["le fond", "bottom;back"],
+  ["le garçon;garçon", "boy"],
+  ["l'homme", "man"],
+  ["l'image", "image;picture"],
+  ["la photo", "photo"],
+  ["décrire", "to describe;describe"],
+  ["playground;court", "cour"],
+  ["she runs;he runs;it runs", "court"]
+]);
